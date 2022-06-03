@@ -1,0 +1,13 @@
+.rack-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.rack-item {
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    border: none;
+    font-style: italic;
+
+}
